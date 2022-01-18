@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "covidinfoapp",
+    "slug": "snack-973aa5c1-e26c-4988-b85a-48193629c3ad",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.gurminder_kaur.snack973aa5c1e26c4988b85a48193629c3ad"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
